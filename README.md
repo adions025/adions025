@@ -6,15 +6,12 @@
 
 I'm a **Software and AI Engineer with over 8 years of experience**, specializing in Python, backend development, Machine Learning, Computer Vision, and Generative AI.
 
-I design and build **scalable software applications, microservices, and production-grade AI systems**, integrating LLMs, RAG pipelines, semantic search, and AI agents, while leveraging cloud architectures and MLOps practices to ensure reliability, performance, and scalability.
+I design and build **scalable software and AI solutions**, including microservices, LLM-powered applications, RAG systems, and AI agents, leveraging cloud technologies and MLOps practices.
 
-I combine **software engineering and applied AI research** to develop reliable, efficient, and impactful solutions.
-
-I'm passionate about **leveraging Artificial Intelligence to drive positive social impact, enhance human well-being, and solve real-world challenges through research and innovation**.
+I combine **software engineering and AI research** with a passion for driving positive social impact, improving human well-being, and solving real-world challenges through technology.
 
 ### 💻 Software Engineering & AI
 
-My professional experience covers the development of backend systems, data pipelines, Machine Learning applications, and cloud-based AI solutions.
 I have worked on projects involving:
 
 - **Backend Engineering:** Designing, developing, and optimizing REST APIs, microservices, and scalable Python applications, focusing on performance, maintainability, and code quality.
@@ -28,8 +25,8 @@ I have worked on projects involving:
 
 | Area | Technologies |
 |---|---|
-| Languages | Python, SQL, Java, C/C++ |
-| Backend | FastAPI, Flask, AWS Chalice, REST APIs |
+| Languages | Python, Java, C/C++ |
+| Backend | FastAPI, Flask, Chalice|
 | Machine Learning | Scikit-learn, TensorFlow, Keras, PyTorch |
 | Computer Vision | OpenCV, YOLO, U-Net, Mask R-CNN, EfficientNet |
 | Generative AI | LLMs, RAG, AI Agents, Embeddings, Vector Search |
