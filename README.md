@@ -14,12 +14,12 @@ I combine **software engineering and AI research** with a passion for driving po
 
 I have worked on projects involving:
 
-- **Backend Engineering:** Designing, developing, and optimizing REST APIs, microservices, and scalable Python applications, focusing on performance, maintainability, and code quality.
-- **Generative AI:** Building LLM-powered applications, Retrieval-Augmented Generation (RAG) systems, AI agents, and semantic search solutions.
+- **Backend Engineering:** Designing and developing REST APIs, microservices, and scalable Python applications, integrating SQL and NoSQL databases, with a focus on performance, maintainability, and code quality.
 - **Machine Learning:** Developing, training, evaluating, optimizing, and deploying Machine Learning and Deep Learning models.
+- **Generative AI:** Building LLM-powered applications, Retrieval-Augmented Generation (RAG) systems, AI agents, and semantic search solutions.
 - **Computer Vision:** Image classification, object detection, segmentation, and explainability.
-- **Performance Optimization:** Improving application efficiency, reducing latency, optimizing resource utilization, and enhancing system scalability.
-- **Cloud & MLOps:** Deploying applications and ML services across AWS, Google Cloud, and Azure, implementing automated CI/CD pipelines, monitoring, and production-ready workflows.
+- **Performance Optimization:**  Improving application performance and scalability through code refactoring, DDD principles, performance profiling, asynchronous programming, multithreading, multiprocessing, and resource optimization.
+- **Cloud & MLOps:** Deploying applications and ML services across AWS and Google Cloud, implementing automated CI/CD pipelines, monitoring, and production-ready workflows.
 
 ### 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@ I have worked on projects involving:
 
 ### 🔬 Research & Academic Background
 
-I'm a **Computer Science Engineer** from the Universitat Autònoma de Barcelona (UAB), currently pursuing a **PhD in Computer Vision** at the Universitat Oberta de Catalunya (UOC), where I'm a member of the **[AIWell – Artificial Intelligence for Human Well-being](https://aiwell.uoc.edu/~adions025/)** research group and collaborate with researchers at **IN3 (Internet Interdisciplinary Institute)**.
+I'm a **Computer Science Engineer** from the Universitat Autònoma de Barcelona (UAB), currently pursuing a PhD in Computer Vision at UOC. I'm a member of the **[AIWell – AI for Human Well-being](https://aiwell.uoc.edu/~adions025/)** research group and collaborate with researchers at IN3
 
 My research focuses on applying Artificial Intelligence, Machine Learning, and Deep Learning to challenges with meaningful social impact.
 
@@ -48,7 +48,7 @@ My research focuses on applying Artificial Intelligence, Machine Learning, and D
 
 ### 🎓 Teaching
 
-I'm also a **Collaborating Professor (Profesor Colaborador) at the Universitat Oberta de Catalunya (UOC)**, teaching programming and data science courses at both undergraduate (Bachelor's Degree in Data Science) and Master's degree levels.
+I'm also a **Collaborating Professor (Profesor Colaborador) at the Universitat Oberta de Catalunya (UOC)**, teaching at both undergraduate (Bachelor's Degree in Data Science) and Master's levels.
 
 Courses:
 - **Programming for Data Science** (*Programación para la Ciencia de Datos*)
@@ -59,11 +59,9 @@ I enjoy sharing knowledge, helping students develop programming skills, and conn
 
 ### 🌍 What Drives Me
 
-I believe that **Artificial Intelligence should go beyond technological advancement and contribute to improving people's lives**.
+I believe **AI should go beyond technological innovation to improve people's lives**. My goal is to bridge academic research and real-world applications by developing responsible, impactful, and accessible AI solutions.
 
-My goal is to bridge the gap between academic research and real-world applications, developing AI solutions that are not only technically robust but also meaningful, responsible, and accessible.
-
-I'm particularly interested in projects combining **Software Engineering, Artificial Intelligence, Computer Vision, and Human Well-being**.
+I'm particularly interested in combining **Software Engineering, AI, Computer Vision, and Human Well-being** to solve meaningful challenges.
 
 ### 🤝 Let's Connect
 
