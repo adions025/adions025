@@ -57,13 +57,6 @@ Courses:
 I enjoy sharing knowledge, helping students develop programming skills, and connecting theoretical concepts with practical applications.
 
 
-### 🌍 What Drives Me
-
-I believe **AI should go beyond technological innovation to improve people's lives**. My goal is to bridge academic research and real-world applications by developing responsible, impactful, and accessible AI solutions.
-
-I'm particularly interested in combining **Software Engineering, AI, Computer Vision, and Human Well-being** to solve meaningful challenges.
-
-
 ## 🚀 Featured Projects
 
 ### 💼 [Quotiva](https://quotiva.datend.com)
@@ -103,8 +96,18 @@ Identifying fiber-cement roofs in aerial RGB images to help locate potentially a
 
 Research on automated blade inspection, comparing **image classification, object detection, and instance segmentation** using expert-annotated images.
 
-📄 **Co-authored research report**  
-[Read on Zenodo](https://zenodo.org/records/3744779)
+📄 **Co-authored research report**  [Read on Zenodo](https://zenodo.org/records/3744779)
+
+---
+
+### 🌍 What Drives Me
+
+I believe **AI should go beyond technological innovation to improve people's lives**. My goal is to bridge academic research and real-world applications by developing responsible, impactful, and accessible AI solutions.
+
+I'm particularly interested in combining **Software Engineering, AI, Computer Vision, and Human Well-being** to solve meaningful challenges.
+
+
+---
 
 ### 🤝 Let's Connect
 
