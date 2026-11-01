@@ -63,6 +63,39 @@ I believe **AI should go beyond technological innovation to improve people's liv
 
 I'm particularly interested in combining **Software Engineering, AI, Computer Vision, and Human Well-being** to solve meaningful challenges.
 
+### 🚀 Featured Projects
+
+#### 🚀 [Quotiva](https://quotiva.datend.com)
+Create quotes and invoices, track expenses, and manage customers and teams—all in one place. Available on web and Android, with iOS coming soon.
+
+Built for professionals, freelancers, and businesses, Quotiva combines AI-assisted workflows, retrieval-augmented generation (RAG), and intelligent document processing to simplify everyday business management.
+
+**Crea presupuestos y facturas gratis con Quotiva, la app para profesionales, autónomos y empresas.**
+
+[🌐 Discover Quotiva](https://quotiva.datend.com)
+
+#### ☀️ Solar Panel Detection — AI for Renewable Energy
+A project combining aerial imagery from the Institut Cartogràfic i Geològic de Catalunya (ICGC), cadastral data, image processing, and deep learning to detect solar panels and associate photovoltaic installations with buildings.
+
+The work supports renewable energy mapping and analysis.
+
+📝 Research publication forthcoming.
+
+#### 🔬 Asbestos Detection
+Research combining deep learning and explainable AI to identify fiber-cement roofs in aerial RGB images.
+
+The work supports the identification of potentially asbestos-containing roofing, helping inform removal planning and efforts to protect public health.
+
+Co-authored publication in **Remote Sensing**:
+[📄 Explainable Automatic Detection of Fiber–Cement Roofs in Aerial RGB Images](https://www.mdpi.com/2072-4292/16/8/1342)
+
+#### 🌬️ Wind Turbine Blade Damage Detection
+Research applying computer vision and deep learning to automate damage detection on wind turbine blades.
+
+The project evaluates image classification, object detection, and instance segmentation using expert-annotated images, supporting automated inspection of wind energy infrastructure.
+
+[📄 Read the research report](https://zenodo.org/records/3744779)
+
 ### 🤝 Let's Connect
 
 I'm always open to exchanging ideas, collaborating on research, and exploring innovative AI projects.
