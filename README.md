@@ -100,7 +100,7 @@ Research on automated blade inspection, comparing **image classification, object
 
 ---
 
-### 🌍 What Drives Me
+## 🌍 What Drives Me
 
 I believe **AI should go beyond technological innovation to improve people's lives**. My goal is to bridge academic research and real-world applications by developing responsible, impactful, and accessible AI solutions.
 
@@ -109,7 +109,7 @@ I'm particularly interested in combining **Software Engineering, AI, Computer Vi
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always open to exchanging ideas, collaborating on research, and exploring innovative AI projects.
 
