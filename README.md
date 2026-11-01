@@ -98,7 +98,6 @@ Research on automated blade inspection, comparing **image classification, object
 
 📄 **Co-authored research report**  [Read on Zenodo](https://zenodo.org/records/3744779)
 
----
 
 ## 🌍 What Drives Me
 
@@ -106,8 +105,6 @@ I believe **AI should go beyond technological innovation to improve people's liv
 
 I'm particularly interested in combining **Software Engineering, AI, Computer Vision, and Human Well-being** to solve meaningful challenges.
 
-
----
 
 ## 🤝 Let's Connect
 
