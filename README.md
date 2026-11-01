@@ -63,38 +63,48 @@ I believe **AI should go beyond technological innovation to improve people's liv
 
 I'm particularly interested in combining **Software Engineering, AI, Computer Vision, and Human Well-being** to solve meaningful challenges.
 
-### 🚀 Featured Projects
 
-#### 🚀 [Quotiva](https://quotiva.datend.com)
-Create quotes and invoices, track expenses, and manage customers and teams—all in one place. Available on web and Android, with iOS coming soon.
+## 🚀 Featured Projects
 
-Built for professionals, freelancers, and businesses, Quotiva combines AI-assisted workflows, retrieval-augmented generation (RAG), and intelligent document processing to simplify everyday business management.
+### 💼 [Quotiva](https://quotiva.datend.com)
+Business management made simpler for professionals, freelancers, and businesses.
+
+- **Manage your business:** create quotes and invoices, track expenses, and organize customers and teams.
+- **AI-powered tools:** intelligent document processing, AI-assisted workflows, and retrieval-augmented generation (RAG).
+- **Web & Android** · iOS coming soon.
 
 **Crea presupuestos y facturas gratis con Quotiva, la app para profesionales, autónomos y empresas.**
 
 [🌐 Discover Quotiva](https://quotiva.datend.com)
 
-#### ☀️ Solar Panel Detection — AI for Renewable Energy
-A project combining aerial imagery from the Institut Cartogràfic i Geològic de Catalunya (ICGC), cadastral data, image processing, and deep learning to detect solar panels and associate photovoltaic installations with buildings.
+---
 
-The work supports renewable energy mapping and analysis.
+### ☀️ Solar Panel Detection
+**Computer Vision · Deep Learning · Renewable Energy**
 
-📝 Research publication forthcoming.
+Detecting solar panels in aerial imagery and linking photovoltaic installations to buildings using **ICGC imagery and cadastral data**.
 
-#### 🔬 Asbestos Detection
-Research combining deep learning and explainable AI to identify fiber-cement roofs in aerial RGB images.
+Supports renewable energy mapping and analysis.
 
-The work supports the identification of potentially asbestos-containing roofing, helping inform removal planning and efforts to protect public health.
+---
 
-Co-authored publication in **Remote Sensing**:
-[📄 Explainable Automatic Detection of Fiber–Cement Roofs in Aerial RGB Images](https://www.mdpi.com/2072-4292/16/8/1342)
+### 🔬 Asbestos Detection
+**Deep Learning · Explainable AI · Public Health**
 
-#### 🌬️ Wind Turbine Blade Damage Detection
-Research applying computer vision and deep learning to automate damage detection on wind turbine blades.
+Identifying fiber-cement roofs in aerial RGB images to help locate potentially asbestos-containing materials and inform removal planning.
 
-The project evaluates image classification, object detection, and instance segmentation using expert-annotated images, supporting automated inspection of wind energy infrastructure.
+📄 **Co-authored paper · Remote Sensing, 2024**  
+[Explainable Automatic Detection of Fiber–Cement Roofs in Aerial RGB Images](https://www.mdpi.com/2072-4292/16/8/1342)
 
-[📄 Read the research report](https://zenodo.org/records/3744779)
+---
+
+### 🌬️ Wind Turbine Blade Damage Detection
+**Computer Vision · Deep Learning · Wind Energy**
+
+Research on automated blade inspection, comparing **image classification, object detection, and instance segmentation** using expert-annotated images.
+
+📄 **Co-authored research report**  
+[Read on Zenodo](https://zenodo.org/records/3744779)
 
 ### 🤝 Let's Connect
 
