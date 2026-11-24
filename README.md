@@ -4,9 +4,9 @@
 
 ### Software & AI Engineer | PhD Researcher in Computer Vision
 
-I'm a **Software and AI Engineer with over 8 years of experience**, specializing in Python, backend development, Machine Learning, Computer Vision, and Generative AI.
+- Software & AI Engineer with 8+ years of experience across backend and full-stack development, Machine Learning, Generative AI, data engineering, and cloud infrastructure (AWS and GCP).
 
-I design and build **scalable software and AI solutions**, including microservices, LLM-powered applications, RAG systems, and AI agents, leveraging cloud technologies and MLOps practices.
+- Strong end-to-end ownership, driving technical decisions and delivering scalable, production-grade solutions from system architecture and development to deployment, monitoring, and continuous improvement.
 
 I combine **software engineering and AI research** with a passion for driving positive social impact, improving human well-being, and solving real-world challenges through technology.
 
@@ -25,14 +25,14 @@ I have worked on projects involving:
 
 | Area | Technologies |
 |---|---|
-| Languages | Python, Java, C/C++ |
-| Backend | FastAPI, Flask, Chalice|
-| Machine Learning | Scikit-learn, TensorFlow, Keras, PyTorch |
+| Languages | Python (primary), TypeScript, Java, C/C++ |
+| Backend | FastAPI, Flask, AWS Chalice |
+| Machine Learning | Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy |
 | Computer Vision | OpenCV, YOLO, U-Net, Mask R-CNN, EfficientNet |
 | Generative AI | LLMs, RAG, AI Agents, Embeddings, Vector Search |
-| Cloud | AWS, Google Cloud Platform, Microsoft Azure |
-| DevOps & MLOps | Docker, GitHub Actions, GitLab CI/CD, Terraform |
-| Databases | PostgreSQL, SQL Server, MongoDB, Vector Databases |
+| Cloud | **AWS** (Lambda, API Gateway, EC2, RDS, S3, SQS, EventBridge, IAM), **GCP** (Cloud Run, Vertex AI, Vertex AI Vector Search, BigQuery, Cloud Storage), **Microsoft Azure** |
+| DevOps & MLOps | Docker, GitHub Actions, GitLab CI/CD, Terraform, AWS CloudFormation, CloudWatch, MLflow |
+| Databases | PostgreSQL, SQL Server, Oracle, MongoDB, BigQuery, TimescaleDB, Vector Databases |
 
 ### 🔬 Research & Academic Background
 
