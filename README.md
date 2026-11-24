@@ -4,7 +4,7 @@
 
 ### Software & AI Engineer | PhD Researcher in Computer Vision
 
-- Software & AI Engineer with 8+ years of experience across backend and full-stack development, Machine Learning, Generative AI, data engineering, and cloud infrastructure (AWS and GCP).
+- Software & AI Engineer with 8+ years of experience across backend development (Python), full-stack development (TypeScript, Capacitor), Machine Learning (PyTorch, TensorFlow), Generative AI (LLMs, RAG, AI Agents), data engineering (ETL, data pipelines), and cloud infrastructure (AWS, GCP).
 
 - Strong end-to-end ownership, driving technical decisions and delivering scalable, production-grade solutions from system architecture and development to deployment, monitoring, and continuous improvement.
 
