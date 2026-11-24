@@ -30,7 +30,7 @@ I have worked on projects involving:
 | Machine Learning | Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy |
 | Computer Vision | OpenCV, YOLO, U-Net, Mask R-CNN, EfficientNet |
 | Generative AI | LLMs, RAG, AI Agents, Embeddings, Vector Search |
-| Cloud | **AWS** (Lambda, API Gateway, EC2, RDS, S3, SQS, EventBridge, IAM), **GCP** (Cloud Run, Vertex AI, Vertex AI Vector Search, BigQuery, Cloud Storage), **Microsoft Azure** |
+| Cloud | **AWS** (Lambda, API Gateway, EC2, RDS, S3, SQS, EventBridge, IAM), **GCP** (Cloud Run, Vertex AI, Vertex AI Vector Search, BigQuery, Cloud Storage)|
 | DevOps & MLOps | Docker, GitHub Actions, GitLab CI/CD, Terraform, AWS CloudFormation, CloudWatch, MLflow |
 | Databases | PostgreSQL, SQL Server, Oracle, MongoDB, BigQuery, TimescaleDB, Vector Databases |
 
